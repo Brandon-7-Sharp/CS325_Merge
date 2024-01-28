@@ -1,5 +1,5 @@
 def multi(num1: int, num2: int) -> int:
-    
+    print("Multiplying")
     return num1 * num2
 
 def main():
