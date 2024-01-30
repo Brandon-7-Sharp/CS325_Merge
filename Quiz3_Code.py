@@ -5,9 +5,6 @@ def multi(num1: int, num2: int) -> int:
 def main():
     print("Starting Multiplication")
     print(multi(20, 11))
-
-
-
     print("Hello")
 
 if __name__ == "__main__":
